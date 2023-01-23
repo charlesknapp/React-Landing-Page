@@ -1,6 +1,9 @@
-# Getting Started with Create React App
+<img src="https://i.ibb.co/mcSp4y4/localhost-3000-CROPPED.png">
+<img src="https://i.ibb.co/x5ZJDm3/Untitled-1.png">
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# Running Your Own Local Installation
+
+Installting this React application locally takes a few steps. Follow the instructions below to learn more about what's required.
 
 ## Available Scripts
 
