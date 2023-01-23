@@ -1,5 +1,6 @@
 
 import React from 'react';
+import { FaBook } from 'react-icons/fa';
 import Feature from '../../components/feature/Feature';
 import './whatgpt3.css';
 
@@ -10,7 +11,7 @@ const WhatGPT3 = () => (
     </div>
     <div className="gpt3__whatgpt3-heading">
       <h1 className="gradient__text">The possibilities are beyond your imagination</h1>
-      <p>Explore the Library</p>
+      <p><FaBook />Explore the Library</p>
     </div>
     <div className="gpt3__whatgpt3-container">
       <Feature title="Chatbots" text="We so opinion friends me message as delight. Whole front do of plate heard oh ought." />
