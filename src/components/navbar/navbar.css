@@ -5,6 +5,12 @@
     padding: 2rem 6rem;
 }
 
+.gpt3__navbar-links_container > p > a > svg {
+    width: 15px;
+    height: 15px;
+    margin-right: 0.35rem;
+}
+
 .gpt3__navbar-links {
     flex: 1;
     display: flex;
