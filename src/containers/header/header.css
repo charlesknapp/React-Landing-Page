@@ -35,8 +35,8 @@
     flex: 2;
     width: 100%;
     min-height: 50px;
-    background: var(--color-footer);
-    border: 2px solid var(--color-footer);
+    background: var(--color-blog);
+    border: 2px solid var(--color-blog);
     padding: 0 1rem;
     outline: none;
     color: #fff;
