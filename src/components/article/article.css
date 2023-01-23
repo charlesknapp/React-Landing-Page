@@ -48,6 +48,7 @@
 }
 .gpt3__blog-container_article-content p:last-child {
     cursor: pointer;
+    font-size: 13px;
 }
 .gpt3__blog-container_article-content h3 {
     font-weight: 800;
