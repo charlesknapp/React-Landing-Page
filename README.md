@@ -1,3 +1,4 @@
+<img src="https://i.ibb.co/mcSp4y4/localhost-3000-CROPPED.png" width="600px">
 # Running Your Own Local Installation
 
 Installting this React application locally takes a few steps. Follow the instructions below to learn more about what's required.
