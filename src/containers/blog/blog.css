@@ -1,6 +1,7 @@
 .gpt3__blog {
     display: flex;
     flex-direction: column;
+    padding-top: 0.25rem;
 }
 .gpt3__blog-heading {
     width: 76%;
