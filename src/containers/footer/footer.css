@@ -4,7 +4,7 @@
     justify-content: center;
     align-items: center;
     background: var(--color-footer);
-    padding-bottom: 1rem;
+    padding-bottom: 1rem !important;
 }
 .gpt3__footer-heading {
     width: 90%;
@@ -75,7 +75,7 @@
 }
 .gpt3__footer-links_logo p {
     font-family: var(--font-family);
-    font-size: 14px;
+    font-size: 16px;
     line-height: 18px;
     color: #FFFFFF;
 }
@@ -94,7 +94,7 @@
 }
 .gpt3__footer-links_div p {
     font-family: var(--font-family);
-    font-size: 14px;
+    font-size: 16px;
     line-height: 18px;
     color: #FFFFFF;
     margin: 0.5rem 0;
@@ -107,7 +107,7 @@
 }
 .gpt3__footer-copyright p {
     font-family: var(--font-family);
-    font-size: 12px;
+    font-size: 15px;
     line-height: 14px;
     color: #FFFFFF;
 }
