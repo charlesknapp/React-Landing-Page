@@ -72,4 +72,7 @@
     .gpt3__possibility-content h1 {
         font-size: 28px;
     }
+    .gpt3__possibility-content h4:last-child {
+        display: none;
+    }
 }

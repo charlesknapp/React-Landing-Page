@@ -1,4 +1,5 @@
 .gpt3__navbar { display: flex; justify-content: space-between; align-items: center; padding: 2rem 6rem; }
+.gpt3__navbar-menu_container-links { border-bottom: 1px solid #062b52bd; }
 .gpt3__navbar-links_container > p > a > svg { width: 15px; height: 15px; margin-right: 0.35rem; }
 .gpt3__navbar-links { flex: 1; display: flex; justify-content: flex-start; align-items: flex-end; }
 .gpt3__navbar-links_container p a, .gpt3__navbar-menu_container-links p a { color: #fff; transition: 0.3s; }

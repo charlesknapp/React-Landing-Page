@@ -172,6 +172,19 @@
     }
 }
 @media screen and (max-width: 550px) {
+    .gpt3__footer-copyright {
+        margin-top: 1rem;
+        margin-bottom: 1rem;
+    }
+    .gpt3__footer-links_logo p {
+        font-size: 16px;
+    }
+    .gpt3__footer-links_logo img {
+        margin-bottom: 2rem;
+    }
+    .gpt3__footer-heading {
+        margin-bottom: 1.25rem !important;
+    }
     .gpt3__footer-heading h1 {
         font-size: 34px;
         line-height: 42px;
@@ -190,7 +203,7 @@
 }
 @media screen and (max-width: 549px) {
     .gpt3__footer-heading h1 {
-        font-size: 27px;
+        font-size: 28px;
         line-height: 38px;
     }
 }

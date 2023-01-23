@@ -19,8 +19,8 @@
 }
 
 @media screen and (max-width: 550px) {
-    .gpt3__blog-heading { margin-bottom: 2rem !important; margin-top: 0rem !important; }
-    .gpt3__blog-heading h1 { font-size: 32px; line-height: 42px; }
+    .gpt3__blog-heading { width: 90%; margin-bottom: 3rem !important; margin-top: -2rem !important; }
+    .gpt3__blog-heading h1 { font-size: 30px; line-height: 42px; }
     .gpt3__blog-container_groupA { display: grid; margin: 1rem 0; }
     .gpt3__blog-container_groupB { grid-gap: 1rem; }
     .gpt3__blog { padding-bottom: 1rem; padding-top: 0rem; }

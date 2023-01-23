@@ -10,7 +10,7 @@
     .gpt3__cta-button { margin: 2rem 0 0; }
 }
 @media screen and (max-width: 550px) {
-    .gpt3__cta { text-align: center; }
+    .gpt3__cta { margin-top: 3rem; text-align: center; max-width: 90%; }
     .gpt3__cta-content p { margin-bottom: 1rem; font-size: 13px; }
     .gpt3__cta-content h3 { font-size: 18px; line-height: 32px; }
     .gpt3__cta-button button { font-size: 14px; line-height: 28px; }

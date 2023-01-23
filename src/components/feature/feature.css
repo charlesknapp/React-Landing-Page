@@ -11,6 +11,6 @@
     .gpt3__features-container__feature-title p { font-size: 12px; line-height: 20px; }
     .gpt3__features-container__feature { margin: 1rem 0; }
     .gpt3__features-container_feature-text { max-width: 100%; }
-    .gpt3__features-container > .gpt3__features-container__feature > .gpt3__features-container_feature-text { max-width: 70%; }
+    .gpt3__features-container > .gpt3__features-container__feature > .gpt3__features-container_feature-text { max-width: 62%; }
     .gpt3__features-container__feature-title { max-width: 100%; }
 }
