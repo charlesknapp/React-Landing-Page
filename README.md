@@ -1,8 +1,6 @@
-## Demo 1
-<img src="https://i.ibb.co/7jBT9LC/demo-2-landing.png">
-
-## Demo 2
-<img src="https://i.ibb.co/mcSp4y4/localhost-3000-CROPPED.png">
+## Demo Styles
+<img src="https://i.ibb.co/7jBT9LC/demo-2-landing.png" width="468px">
+<img src="https://i.ibb.co/mcSp4y4/localhost-3000-CROPPED.png" width="468px">
 
 # Running Your Own Local Installation
 
