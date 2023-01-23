@@ -21,7 +21,7 @@
 .gpt3__header-content p {
     font-family: var(--font-family);
     font-weight: normal;
-    font-size: 20px;
+    font-size: 22px;
     line-height: 27px;
     color: var(--color-text);
     margin-top: 1.5rem;
@@ -53,7 +53,7 @@
     transition: 0.2s;
     border-top-right-radius: 5px;
     border-bottom-right-radius: 5px;
-    background: #ff4820;
+    background: #8a20ff;
     font-family: var(--font-family);
     font-size: 20px;
     font-weight: bold;
@@ -65,7 +65,7 @@
     border: none;
 }
 .gpt3__header-content__input button:hover {
-    background: #ff6d4c;
+    background: #aa5cff;
     transition: 0.2s;
 }
 .gpt3__header-content__people {
@@ -84,7 +84,7 @@
     text-align: center;
     font-family: var(--font-family);
     font-weight: 500;
-    font-size: 12px;
+    font-size: 15px;
     line-height: 38px;
     color: var(--color-text);
 }

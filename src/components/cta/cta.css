@@ -3,7 +3,7 @@
 .gpt3__cta-content p { font-family: var(--font-family); font-weight: 500; font-size: 15px; line-height: 30px; color: #0E0E0E; }
 .gpt3__cta-content h3 { font-family: var(--font-family); font-weight: 800; font-size: 26px; line-height: 45px; color: #000000; }
 .gpt3__cta-btn button { padding: 0.5rem 1.5rem; background: #000000; border-radius: 40px; font-family: var(--font-family); font-weight: 700; font-size: 18px; line-height: 30px; color: #FFFFFF; border: none; outline: 0; cursor: pointer; transition: 0.2s; }
-.gpt3__cta-btn button:hover { transition: 0.2s; color: #ff6d4c; }
+.gpt3__cta-btn button:hover { transition: 0.2s; color: #aa5cff; }
 
 @media screen and (max-width: 650px) {
     .gpt3__cta { flex-direction: column; }
