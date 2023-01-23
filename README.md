@@ -1,5 +1,5 @@
 ## Demo Styles
-<img src="https://i.ibb.co/7jBT9LC/demo-2-landing.png" width="400px">&nbsp<img src="https://i.ibb.co/mcSp4y4/localhost-3000-CROPPED.png" width="400px">
+<img src="https://i.ibb.co/7jBT9LC/demo-2-landing.png" width="400px"> <img src="https://i.ibb.co/mcSp4y4/localhost-3000-CROPPED.png" width="400px">
 
 # Running Your Own Local Installation
 
