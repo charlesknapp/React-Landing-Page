@@ -1,0 +1,192 @@
+.gpt3__footer {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background: var(--color-footer);
+    padding-bottom: 1rem;
+}
+.gpt3__footer-heading {
+    width: 90%;
+    text-align: center;
+    margin-bottom: 3rem !important;
+    margin: 0 auto;
+}
+.gpt3__footer-heading h1 {
+    font-family: var(--font-family);
+    font-weight: 800;
+    font-size: 62px;
+    line-height: 75px;
+    text-align: center;
+    letter-spacing: -0.04em;
+}
+.gpt3_footer-btn {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    margin-bottom: 6rem;
+    padding: 1rem;
+    border:  2px solid #fff;
+    border-radius: 10px;
+    cursor: pointer;
+    transition: 0.2s;
+}
+.gpt3_footer-btn:hover {
+    transition: 0.2s;
+    border:  2px solid #ff6d4c;
+}
+.gpt3_footer-btn p {
+    box-sizing: border-box;
+    font-family: var(--font-family);
+    font-size: 18px;
+    line-height: 21px;
+    color: #fff;
+    word-spacing: 2px;
+}
+
+.gpt3__footer-links {
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-start;
+    flex-wrap: wrap;
+    flex-direction: row;
+    width: 100%;
+    text-align: left;
+    background: var(--color-blog);
+    padding: 1rem;
+    border-radius: 10px;
+    box-shadow: 0 0 14px rgba(12,12,12,0.22);
+}
+.gpt3__footer-links div {
+    width: 350px;
+    margin: 1rem;
+    text-align: center;
+    align-items: center;
+}
+.gpt3__footer-links_logo {
+    display: flex;
+    flex-direction: column;
+}
+.gpt3__footer-links_logo img {
+    width: 118px;
+    height: 30px;
+    margin-bottom: 1rem;
+}
+.gpt3__footer-links_logo p {
+    font-family: var(--font-family);
+    font-size: 14px;
+    line-height: 18px;
+    color: #FFFFFF;
+}
+
+.gpt3__footer-links_div {
+    display: flex;
+    justify-content: flex-start;
+    flex-direction: column;
+}
+.gpt3__footer-links_div h4 {
+    font-family: var(--font-family);
+    font-size: 18px;
+    line-height: 16px;
+    color: #ffd9d9;
+    margin-bottom: 1rem;
+}
+.gpt3__footer-links_div p {
+    font-family: var(--font-family);
+    font-size: 14px;
+    line-height: 18px;
+    color: #FFFFFF;
+    margin: 0.5rem 0;
+    cursor: pointer;
+}
+.gpt3__footer-copyright {
+    margin-top: 4rem;
+    text-align-last: center;
+    width: 100%;
+}
+.gpt3__footer-copyright p {
+    font-family: var(--font-family);
+    font-size: 12px;
+    line-height: 14px;
+    color: #FFFFFF;
+}
+
+.gpt3__footer-content__input {
+    width: 100%;
+    margin-top: 1rem !important;
+    margin-bottom: 2rem !important;
+    display: flex;
+    margin: 0 auto;
+    max-width: 98%;
+}
+.gpt3__footer-content__input input {
+    flex: 2;
+    width: 100%;
+    min-height: 50px;
+    background: var(--color-blog);
+    border: 2px solid var(--color-blog);
+    padding: 0 1rem;
+    outline: none;
+    color: #fff;
+    font-family: var(--font-family);
+    font-size: 20px;
+    line-height: 27px;
+    border-top-left-radius: 5px;
+    border-bottom-left-radius: 5px;
+}
+.gpt3__footer-content__input button {
+    flex: 0.6;
+    width: 100%;
+    min-height: 50px;
+    transition: 0.2s;
+    border-top-right-radius: 5px;
+    border-bottom-right-radius: 5px;
+    background: #ff4820;
+    font-family: var(--font-family);
+    font-size: 20px;
+    font-weight: bold;
+    line-height: 27px;
+    color: #fff;
+    cursor: pointer;
+    outline: none;
+    padding: 0 1rem;
+    border: none;
+}
+.gpt3__footer-content__input button:hover {
+    background: #ff6d4c;
+    transition: 0.2s;
+}
+.gpt3__footer-content__people {
+    width: 100%;
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    margin-top: 2rem;
+}
+
+@media screen and (max-width: 850px) {
+    .gpt3_footer-heading h1 {
+        font-size: 44px;
+        line-height: 50px;
+    }
+}
+@media screen and (max-width: 550px) {
+    .gpt3__footer-heading h1 {
+        font-size: 34px;
+        line-height: 42px;
+    }
+    .gpt3__footer-btn p {
+        font-size: 14px;
+        line-height: 20px;
+    }
+    .gpt3__footer-links div {
+        margin: 1rem 0;
+    }
+}
+@media screen and (max-width: 549px) {
+    .gpt3__footer-heading h1 {
+        font-size: 27px;
+        line-height: 38px;
+    }
+}
