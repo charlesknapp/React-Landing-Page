@@ -52,6 +52,12 @@
     margin: 4rem 0 2rem;
 }
 
+.gpt3__whatgpt3-heading p svg {
+    margin-right: 0.5rem;
+    width: 15px;
+    height: 15px;
+}
+
 .gpt3__whatgpt3-heading h1 {
     font-size: 38px;
     line-height: 45px;
@@ -126,8 +132,12 @@
     }
 
     .gpt3__whatgpt3-heading h1 {
-        font-size: 26px;
+        font-size: 24px;
         line-height: 40px;
+    }
+    .gpt3__whatgpt3 {
+        padding: 2rem;
+        max-width: 90%;
     }
 }
 
