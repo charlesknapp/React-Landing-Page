@@ -1,6 +1,6 @@
-# Getting Started with Create React App
+# Running Your Own Local Installation
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Installting this React application locally takes a few steps. Follow the instructions below to learn more about what's required.
 
 ## Available Scripts
 
