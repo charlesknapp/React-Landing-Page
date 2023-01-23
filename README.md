@@ -1,5 +1,8 @@
+## Demo 1
+<img src="https://i.ibb.co/7jBT9LC/demo-2-landing.png">
+
+##Demo 2
 <img src="https://i.ibb.co/mcSp4y4/localhost-3000-CROPPED.png">
-<img src="https://i.ibb.co/x5ZJDm3/Untitled-1.png">
 
 # Running Your Own Local Installation
 
