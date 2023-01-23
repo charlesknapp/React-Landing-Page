@@ -17,6 +17,7 @@ const Footer = () => (
       <div className="gpt3__footer-links_logo">
         <img src={gpt3Logo} alt="gpt3_logo" />
         <p>Your super-powered personal assistant. OpenAI is creating artificial intelligence that helps humans complete tasks.</p>
+        <br />
         <p>Crechterwoord K12 182 DK Alknjkcb, <br /> All Rights Reserved</p>
       </div>
       <div className="gpt3__footer-links_div">
